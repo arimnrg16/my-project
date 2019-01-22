@@ -2,8 +2,11 @@
 Project that has been Built
 
 AKS_SyRS-2018-04.pdf.
+
 Decription :
+
 Purpose of Document
+
 This document is written for system developers: project managers, programmers, designers, system analysts, and testers. 
 
 The purpose of writing this document, among others: 
