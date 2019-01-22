@@ -1,7 +1,7 @@
 # my-project
 Project that has been Built
 
-AKS_SyRS-2018-04.pdf.
+...... AKS_SyRS-2018-04.pdf......
 
 Decription :
 
@@ -15,3 +15,15 @@ b. Equalizing perception between client and developer
 c. Become a description of the system to be built 
 d. As documentation of information system requirements to be built 
 e. Become a reference in system development
+
+......Object Oriented Programming......
+
+JDBC (Java Database Connectivity) using Java
+
+This project buiit a database in Java
+a.Establish a connection
+b.Create JDBC Statements
+c.Execute SQL Statements
+d.GET ResultSet 
+e.Close connection
+
